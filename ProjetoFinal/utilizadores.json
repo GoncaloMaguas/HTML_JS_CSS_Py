@@ -1,0 +1,17 @@
+{
+	"utilizadores":
+	[
+		{ 
+			"ID" : "1", 
+			"UserName" : "Carlos", 
+			"VAT"      : "123456789",
+			"Password" : "segredo"
+		},
+		{ 
+			"ID" : "2", 
+			"UserName" : "Jorge", 
+			"VAT"      : "234567891",
+			"Password" : "segredo"
+		}
+	]
+}
